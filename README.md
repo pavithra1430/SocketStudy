@@ -1,3 +1,5 @@
+# pavithra s
+# 212223220072
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
